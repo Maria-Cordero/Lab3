@@ -3,7 +3,7 @@ import java.awt.*;
 
 public class Lab3Exercises {
 	public static void main(String[] args) {
-
+ 
 		Dimension screenSize = Toolkit.getDefaultToolkit().getScreenSize();
 		
 		int screenWidth = screenSize.height;
