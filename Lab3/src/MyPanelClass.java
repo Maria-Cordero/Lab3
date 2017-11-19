@@ -40,7 +40,7 @@ public class MyPanelClass extends JPanel {
 		
 //        g.setColor(Color.LIGHT_GRAY);
 //        g.fillOval( (width/2) - (55/2) , (height/2) - (55/2), 55, 55);
-
+ 
 	    Polygon p = new Polygon();
         p.addPoint(x1 + 10, y1 + 10);
         p.addPoint(x1 + 210, y1 + 10);
